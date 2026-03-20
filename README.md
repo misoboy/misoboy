@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Chi Seok Song (misoboy) 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=misoboy&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AWS%20Cloud%20Architect%20%7C%20DevOps%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descAlign=50)
 
-**AWS Cloud Architect · DevOps Engineer · Backend Developer**
-
-*11+ years of experience spanning Infrastructure to Development*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=☁️+AWS+Cloud+Architect;🚀+DevOps+Engineer;🔧+Backend+Developer;🐹+Go+%26+☕+Java+Developer;📊+Observability+%26+EKS+Explorer)](https://github.com/misoboy)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiseok-song-b56885154/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misoboy.kor@gmail.com)
@@ -16,11 +14,12 @@
 
 ## About Me
 
-- ☁️ **AWS Cloud Architect** specializing in cloud-native architecture and solution design
-- 🚀 **DevOps Engineer** passionate about CI/CD, containerization, and infrastructure automation
+- ☁️ **AWS Cloud Architect** — cloud-native architecture & solution design
+- 🚀 **DevOps Engineer** — CI/CD, containerization, infrastructure automation
 - 🔭 Currently exploring **EKS**, **Data Analytics**, and **Observability**
 - 🌱 Always learning — from serverless to distributed systems
 - ⚡ Go & Java backend developer with a love for clean, pragmatic code
+- 💼 11+ years of experience spanning Infrastructure to Development
 
 ---
 
@@ -65,9 +64,21 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misoboy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misoboy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true)
+&nbsp;&nbsp;
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misoboy&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misoboy&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misoboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## Trophy
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=misoboy&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/misoboy)
 
 </div>
 
@@ -86,8 +97,24 @@
 
 ---
 
+## Contribution Snake
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=misoboy&color=blue&style=flat-square)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misoboy/misoboy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/misoboy/misoboy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/misoboy/misoboy/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=misoboy&color=58A6FF&style=flat-square&label=Profile+Views)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
