@@ -74,11 +74,11 @@
 
 ---
 
-## Trophy
+## Activity Graph
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=misoboy&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/misoboy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=misoboy&theme=tokyo-night&hide_border=true&area=true)](https://github.com/misoboy)
 
 </div>
 
